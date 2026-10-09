@@ -1,0 +1,1 @@
+"""Visual overlay / guidance rendering."""
