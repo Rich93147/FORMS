@@ -1,6 +1,6 @@
 # Datasets
 
-Datasets are not redistributed; download them into `data/raw/<name>/` (git-ignored). Add official download links here once confirmed.
+Datasets are not redistributed; download them into `data/raw/<name>/` (git-ignored). I will add official download links at a later time.
 
 | Dataset | Role | Notes |
 |---|---|---|
