@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+.ipynb_checkpoints/
+data/raw/*/*
+data/processed/*
+!data/**/.gitkeep
+*.pt
+*.pth

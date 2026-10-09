@@ -1,0 +1,12 @@
+# Placeholder configuration (values are tentative)
+exercise: squat
+sensor:
+  fps: 30
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+targets:
+  corrective_guidance_accuracy: 0.70
+  macro_f1: 0.80
+  joint_angle_mae_deg: 10
+  inference_fps: 30

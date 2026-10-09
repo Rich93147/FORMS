@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "forms"
+version = "0.0.1"
+description = "Form Optimization and Repetition Monitoring System"
+requires-python = ">=3.10"
+dependencies = ["numpy", "opencv-python", "torch", "scikit-learn", "scipy", "pyyaml"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
